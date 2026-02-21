@@ -1,0 +1,9 @@
+// Top-level build configuration for the Comic Viewer Android project.
+
+plugins {
+    id("com.android.application") version "8.7.0" apply false
+    id("org.jetbrains.kotlin.android") version "2.1.0" apply false
+    id("org.jetbrains.kotlin.plugin.compose") version "2.1.0" apply false
+    id("org.jetbrains.kotlin.plugin.serialization") version "2.1.0" apply false
+    id("com.google.devtools.ksp") version "2.1.0-1.0.29" apply false
+}
