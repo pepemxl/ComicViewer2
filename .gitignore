@@ -1,3 +1,4 @@
+list_android_files.py
 .agent/*
 .claude/*
 context/*
