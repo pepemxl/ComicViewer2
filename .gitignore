@@ -3,6 +3,8 @@ list_android_files.py
 .claude/*
 context/*
 LOCAL_DATA/*
+**/node_modules/*
+**/node_modules
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
